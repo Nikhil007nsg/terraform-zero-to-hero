@@ -1,4 +1,4 @@
-#terraform workspace cmd
+# Terraform workspace cmd
 1 - terraform workspace new dev ....# for creating new env.
 2 - terraform workspace new stage
 3 - terraform workspace new prod
